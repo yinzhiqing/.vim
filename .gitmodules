@@ -1,51 +1,51 @@
 [submodule "bundle/rails"]
 	path = bundle/rails
-	url = git://github.com/tpope/vim-rails.git
+	url = https://github.com/tpope/vim-rails.git
 [submodule "bundle/surround"]
 	path = bundle/surround
-	url = git://github.com/tpope/vim-surround.git
+	url = https://github.com/tpope/vim-surround.git
 [submodule "bundle/ragtag"]
 	path = bundle/ragtag
-	url = git://github.com/tpope/vim-ragtag.git
+	url = https://github.com/tpope/vim-ragtag.git
 [submodule "bundle/endwise"]
 	path = bundle/endwise
-	url = git://github.com/tpope/vim-endwise.git
+	url = https://github.com/tpope/vim-endwise.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
-	url = git://github.com/msanders/snipmate.vim.git
+	url = https://github.com/msanders/snipmate.vim.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = git://github.com/scrooloose/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/ack"]
 	path = bundle/ack
-	url = git://github.com/mileszs/ack.vim.git
+	url = https://github.com/mileszs/ack.vim.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = git://github.com/ervandew/supertab.git
+	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/vim-preview"]
 	path = bundle/vim-preview
-	url = git://github.com/greyblake/vim-preview.git
+	url = https://github.com/greyblake/vim-preview.git
 [submodule "bundle/zencoding-vim"]
 	path = bundle/zencoding-vim
-	url = git://github.com/mattn/zencoding-vim.git
+	url = https://github.com/mattn/zencoding-vim.git
 [submodule "bundle/rvm"]
 	path = bundle/rvm
-	url = git://github.com/csexton/rvm.vim.git
+	url = https://github.com/csexton/rvm.vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = git://github.com/scrooloose/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
-	url = git://github.com/scrooloose/nerdcommenter.git
+	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
-	url = git://git.wincent.com/command-t.git
+	url = https://git.wincent.com/command-t.git
 [submodule "bundle/ruby"]
 	path = bundle/ruby
-	url = git://github.com/vim-ruby/vim-ruby.git
+	url = https://github.com/vim-ruby/vim-ruby.git
 [submodule "snippets"]
 	path = snippets
-	url = git://github.com/yautah/snipmate-snippets.git
+	url = https://github.com/yautah/snipmate-snippets.git
 [submodule "bundle/pathogen"]
 	path = bundle/pathogen
 	url = https://github.com/tpope/vim-pathogen.git
