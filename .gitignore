@@ -4,3 +4,5 @@ tags
 *.sw*
 .VimballRecord
 .netrwhist
+bundle/
+pack/

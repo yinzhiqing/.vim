@@ -79,3 +79,6 @@
 [submodule "pack/plugins/start/rust.vim"]
     path = pack/plugins/start/rust.vim
     url = https://github.com/rust-lang/rust.vim
+[submodule "pack/tpope/start/vim-fugitive"]
+	path = pack/tpope/start/vim-fugitive
+	url = https://tpope.io/vim/fugitive.git
