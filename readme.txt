@@ -34,3 +34,5 @@ git submodule init --update
 4. snipMate问题
    snipMate自带有一套简单的snippets, 位于 bundle/snipmate/snippets。根目录下有一套更为详细的snippets，将snipMate自带的一套snippets目录改名或者删除。
 
+5. 配置fzf preview
+   https://blog.csdn.net/qq_39852676/article/details/126820806
