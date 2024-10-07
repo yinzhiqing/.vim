@@ -21,3 +21,5 @@ PROMPT_COMMAND=' __git_ps1 "${RED}$(basename ${VIRTUAL_ENV}${EMPTY_STR})${RESET}
 #PROMPT_COMMAND=' __git_ps1 "${RED}$(basename ${VIRTUAL_ENV})${RESET} [${YELLOW}\u@\h${RESET}:${BLUE}\w${RESET}]" "\\\$ "'
 
 
+# install nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
