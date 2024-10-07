@@ -33,7 +33,10 @@ filetype off
 
  Plugin 'dense-analysis/ale'
 
+ Plugin 'github/copilot.vim'
+
  Plugin 'junegunn/fzf', { 'do': { -> fzf#install() } }
+
  Plugin 'yuki-yano/fzf-preview.vim', { 'branch': 'release/rpc' }
 
  "rust code 
